@@ -1,0 +1,15 @@
+
+.home-title{
+    margin: auto;
+    text-align: center;
+    font-family: "Quantum";
+    font-size: 2rem;
+    color: #4FFFB0;
+}
+
+@media (min-width: 800px) {
+    .home-title{
+        font-size: 150px;
+    }
+}
+
